@@ -7,4 +7,5 @@
 
 ### 运行程序
 `make qemu`: 生成可执行文件并且启动qemu
+
 `make hello`: 生成可执行文件
